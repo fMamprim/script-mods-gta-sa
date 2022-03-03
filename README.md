@@ -1,7 +1,6 @@
 -----------------------------------------------------------------                
-
------------------------------------------------------------------
 Here's an explanation of the mods and which keys to press:
+-----------------------------------------------------------------
 
 
 BOOMCJ - Create a little explosion on CJ without kill him
